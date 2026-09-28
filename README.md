@@ -94,6 +94,20 @@ Ingénieure en Big Data et Intelligence Artificielle, diplômée de l'ENSAT Tét
 
 ---
 
+## Projets GitHub
+
+<div align="center">
+
+| 🎥 Deepfake Detection | 📝 NLP Project | 🔗 Blockchain |
+|:---:|:---:|:---:|
+| [![GitHub](https://img.shields.io/badge/Voir%20le%20repo-181717?style=for-the-badge&logo=github)](https://github.com/AhlamElGamani/deepfake-detection) | [![GitHub](https://img.shields.io/badge/Voir%20le%20repo-181717?style=for-the-badge&logo=github)](https://github.com/AhlamElGamani/nlp-project) | [![GitHub](https://img.shields.io/badge/Voir%20le%20repo-181717?style=for-the-badge&logo=github)](https://github.com/AhlamElGamani/blockchain) |
+
+*Projets réalisés en collaboration avec [Chaymae Bouhnas](https://github.com/chaymaebouhnas).*
+
+</div>
+
+---
+
 ## Statistiques GitHub
 
 <div align="center">
