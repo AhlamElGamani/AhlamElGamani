@@ -98,7 +98,7 @@ Ingénieure en Big Data et Intelligence Artificielle, diplômée de l'ENSAT Tét
 
 <div align="center">
 
-| 🎥 Deepfake Detection | 📝 NLP Project | 🔗 Blockchain |
+| Deepfake Detection | NLP Project | Blockchain |
 |:---:|:---:|:---:|
 | [![GitHub](https://img.shields.io/badge/Voir%20le%20repo-181717?style=for-the-badge&logo=github)](https://github.com/AhlamElGamani/deepfake-detection) | [![GitHub](https://img.shields.io/badge/Voir%20le%20repo-181717?style=for-the-badge&logo=github)](https://github.com/AhlamElGamani/nlp-project) | [![GitHub](https://img.shields.io/badge/Voir%20le%20repo-181717?style=for-the-badge&logo=github)](https://github.com/AhlamElGamani/blockchain) |
 
@@ -112,7 +112,7 @@ Ingénieure en Big Data et Intelligence Artificielle, diplômée de l'ENSAT Tét
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhlamElGamani&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-eight-pink.vercel.app/api/top-langs/?username=AhlamElGamani&layout=compact&theme=dark)
 
 </div>
 
